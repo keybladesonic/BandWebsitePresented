@@ -1,15 +1,13 @@
 # Band Website
 Setup (Using Ubuntu Mate VM)
-1. Download all files from the main directory and scripts subdirectory.
+1. Download all files.
 2. Start a command line window where you downloaded the files.
 3. Type: dpd create bandwebsite-backend
-4. In bandwebsite-backend/resources, add a folder called reviews.
-5. Download bandwebsite-backend/config.json to the reviews folder.
-6. Type: cd bandwebsite-backend
-7. Type: dpd
-8. Open a second command line window at the root of the downloaded files. (same folder as step 2)
-9. Type: browser-sync start --server --files "*.html, stylesheets/*.css, scripts/*.js"
-10. The webpage should be viewable at http://localhost:3000
+4. Move the reources folder to bandwebsite-backend/resources.6. Type: cd bandwebsite-backend
+5. Type: dpd
+6. Open a second command line window at the root of the downloaded files. (same folder as step 2)
+7. Type: browser-sync start --server --files ".html, stylesheets/.css, scripts/.js"
+8. The webpage should be viewable at http://localhost:3000/Home.html
 
 Instructions for Using the Site
 1. The Home Page allows for the individual band to sign up/log in to the site. Signing up allows for the band to create their own page with their description. Upon logging in, band members are able to add any recent events that they were at.
