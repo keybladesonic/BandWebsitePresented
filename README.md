@@ -1,5 +1,6 @@
 # Band Website
 by David Brown, Brian Cabantug, Yashdeep Kajal, Tyler Stickler, Chinmayee Tapaskar
+
 Setup (Using Ubuntu Mate VM)
 1. Download all files.
 2. Start a command line window where you downloaded the files.
