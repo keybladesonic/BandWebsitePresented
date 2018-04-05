@@ -1,0 +1,29 @@
+{
+	"type": "Collection",
+	"properties": {
+		"bandName": {
+			"name": "bandName",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "bandName",
+			"order": 0
+		},
+		"Email": {
+			"name": "Email",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "Email",
+			"order": 1
+		},
+		"Password": {
+			"name": "Password",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "Password",
+			"order": 2
+		}
+	}
+}
